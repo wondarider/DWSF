@@ -31,7 +31,6 @@
       overflow-x: hidden;
     }
 
-    /* Ambient background glow */
     body::before {
       content: '';
       position: fixed;
@@ -70,10 +69,9 @@
       to   { opacity: 1; transform: translateY(0); }
     }
 
-    /* Icon */
     .icon-wrap {
-      width: 64px;
-      height: 64px;
+      width: 144px;
+      height: 144px;
       border-radius: 16px;
       background: linear-gradient(135deg, rgba(56,189,248,0.15), rgba(110,231,183,0.1));
       border: 1px solid rgba(56,189,248,0.25);
@@ -85,11 +83,10 @@
     }
 
     .icon-wrap svg {
-      width: 32px;
-      height: 32px;
+      width: 120px;
+      height: 120px;
     }
 
-    /* Tag */
     .tag {
       display: inline-block;
       font-size: 0.7rem;
@@ -153,7 +150,6 @@
       font-weight: 500;
     }
 
-    /* CTA */
     .cta {
       margin-top: 2.5rem;
       display: flex;
@@ -196,7 +192,6 @@
 
     .btn-ghost:hover { color: var(--text); border-color: rgba(56,189,248,0.4); }
 
-    /* Footer note */
     .footer-note {
       margin-top: 2rem;
       font-size: 0.78rem;
@@ -205,69 +200,79 @@
       padding-top: 1.25rem;
       animation: fadeUp 0.8s 0.5s ease both;
     }
+
+    .footer a {
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 0.78rem;
+      margin-top: 0.75rem;
+      display: inline-block;
+    }
+
+    .footer a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
   <div class="card">
 
-    <!-- Icon -->
+    <!-- Icon: viewBox cropped to 260 80 160 240 to focus tightly on the family illustration -->
     <div class="icon-wrap">
-  <svg width="100%" viewBox="0 0 680 420" role="img" xmlns="http://www.w3.org/2000/svg">
-  <title>Family protection icon</title>
-  <desc>Two parents and a child sheltered inside a protective shield, with the child holding a tablet device.</desc>
+      <svg viewBox="260 80 160 240" role="img" xmlns="http://www.w3.org/2000/svg">
+        <title>Family protection icon</title>
+        <desc>Two parents and a child sheltered inside a protective shield, with the child holding a tablet device.</desc>
 
-  <!-- Shield body -->
-  <path d="M340 105 L275 128 L275 215 C275 255 304 288 340 300 C376 288 405 255 405 215 L405 128 Z"
-    fill="#e0f2fe" stroke="#38bdf8" stroke-width="2.5" stroke-linejoin="round"/>
+        <!-- Shield body -->
+        <path d="M340 105 L275 128 L275 215 C275 255 304 288 340 300 C376 288 405 255 405 215 L405 128 Z"
+          fill="#e0f2fe" stroke="#38bdf8" stroke-width="2.5" stroke-linejoin="round"/>
 
-  <!-- Shield inner highlight -->
-  <path d="M340 118 L286 138 L286 213 C286 247 310 276 340 286 C370 276 394 247 394 213 L394 138 Z"
-    fill="#f0fafb" stroke="#7dd3fc" stroke-width="1" stroke-linejoin="round" opacity="0.5"/>
+        <!-- Shield inner highlight -->
+        <path d="M340 118 L286 138 L286 213 C286 247 310 276 340 286 C370 276 394 247 394 213 L394 138 Z"
+          fill="#f0fafb" stroke="#7dd3fc" stroke-width="1" stroke-linejoin="round" opacity="0.5"/>
 
-  <!-- WiFi signal -->
-  <path d="M324 98 Q340 87 356 98" fill="none" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
-  <path d="M330 91 Q340 83 350 91" fill="none" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
-  <circle cx="340" cy="86" r="2.5" fill="#94a3b8" opacity="0.6"/>
+        <!-- WiFi signal -->
+        <path d="M324 98 Q340 87 356 98" fill="none" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+        <path d="M330 91 Q340 83 350 91" fill="none" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+        <circle cx="340" cy="86" r="2.5" fill="#94a3b8" opacity="0.6"/>
 
-  <!-- Parent left -->
-  <circle cx="300" cy="168" r="16" fill="#fbbf24" stroke="#f59e0b" stroke-width="1.5"/>
-  <ellipse cx="300" cy="155" rx="16" ry="9" fill="#92400e"/>
-  <rect x="284" y="185" width="32" height="46" rx="7" fill="#3b82f6" stroke="#2563eb" stroke-width="1"/>
-  <line x1="284" y1="196" x2="265" y2="218" stroke="#3b82f6" stroke-width="5.5" stroke-linecap="round"/>
-  <line x1="316" y1="196" x2="325" y2="217" stroke="#3b82f6" stroke-width="5.5" stroke-linecap="round"/>
-  <rect x="286" y="229" width="12" height="25" rx="5" fill="#1d4ed8"/>
-  <rect x="302" y="229" width="12" height="25" rx="5" fill="#1d4ed8"/>
+        <!-- Parent left -->
+        <circle cx="300" cy="168" r="16" fill="#fbbf24" stroke="#f59e0b" stroke-width="1.5"/>
+        <ellipse cx="300" cy="155" rx="16" ry="9" fill="#92400e"/>
+        <rect x="284" y="185" width="32" height="46" rx="7" fill="#3b82f6" stroke="#2563eb" stroke-width="1"/>
+        <line x1="284" y1="196" x2="265" y2="218" stroke="#3b82f6" stroke-width="5.5" stroke-linecap="round"/>
+        <line x1="316" y1="196" x2="325" y2="217" stroke="#3b82f6" stroke-width="5.5" stroke-linecap="round"/>
+        <rect x="286" y="229" width="12" height="25" rx="5" fill="#1d4ed8"/>
+        <rect x="302" y="229" width="12" height="25" rx="5" fill="#1d4ed8"/>
 
-  <!-- Parent right -->
-  <circle cx="380" cy="168" r="16" fill="#fbbf24" stroke="#f59e0b" stroke-width="1.5"/>
-  <ellipse cx="380" cy="155" rx="16" ry="9" fill="#78350f"/>
-  <rect x="364" y="155" width="4.5" height="20" rx="3" fill="#78350f"/>
-  <rect x="391" y="155" width="4.5" height="20" rx="3" fill="#78350f"/>
-  <rect x="364" y="185" width="32" height="46" rx="7" fill="#ec4899" stroke="#db2777" stroke-width="1"/>
-  <line x1="364" y1="196" x2="355" y2="217" stroke="#ec4899" stroke-width="5.5" stroke-linecap="round"/>
-  <line x1="396" y1="196" x2="415" y2="218" stroke="#ec4899" stroke-width="5.5" stroke-linecap="round"/>
-  <rect x="366" y="229" width="12" height="25" rx="5" fill="#9d174d"/>
-  <rect x="382" y="229" width="12" height="25" rx="5" fill="#9d174d"/>
+        <!-- Parent right -->
+        <circle cx="380" cy="168" r="16" fill="#fbbf24" stroke="#f59e0b" stroke-width="1.5"/>
+        <ellipse cx="380" cy="155" rx="16" ry="9" fill="#78350f"/>
+        <rect x="364" y="155" width="4.5" height="20" rx="3" fill="#78350f"/>
+        <rect x="391" y="155" width="4.5" height="20" rx="3" fill="#78350f"/>
+        <rect x="364" y="185" width="32" height="46" rx="7" fill="#ec4899" stroke="#db2777" stroke-width="1"/>
+        <line x1="364" y1="196" x2="355" y2="217" stroke="#ec4899" stroke-width="5.5" stroke-linecap="round"/>
+        <line x1="396" y1="196" x2="415" y2="218" stroke="#ec4899" stroke-width="5.5" stroke-linecap="round"/>
+        <rect x="366" y="229" width="12" height="25" rx="5" fill="#9d174d"/>
+        <rect x="382" y="229" width="12" height="25" rx="5" fill="#9d174d"/>
 
-  <!-- Child -->
-  <circle cx="340" cy="182" r="13" fill="#fcd34d" stroke="#fbbf24" stroke-width="1.5"/>
-  <ellipse cx="340" cy="171" rx="13" ry="7" fill="#b45309"/>
-  <rect x="326" y="196" width="28" height="38" rx="6" fill="#6ee7b7" stroke="#10b981" stroke-width="1"/>
-  <line x1="326" y1="205" x2="315" y2="220" stroke="#6ee7b7" stroke-width="4.5" stroke-linecap="round"/>
-  <line x1="354" y1="205" x2="365" y2="220" stroke="#6ee7b7" stroke-width="4.5" stroke-linecap="round"/>
-  <rect x="328" y="232" width="10" height="20" rx="4" fill="#059669"/>
-  <rect x="342" y="232" width="10" height="20" rx="4" fill="#059669"/>
+        <!-- Child -->
+        <circle cx="340" cy="182" r="13" fill="#fcd34d" stroke="#fbbf24" stroke-width="1.5"/>
+        <ellipse cx="340" cy="171" rx="13" ry="7" fill="#b45309"/>
+        <rect x="326" y="196" width="28" height="38" rx="6" fill="#6ee7b7" stroke="#10b981" stroke-width="1"/>
+        <line x1="326" y1="205" x2="315" y2="220" stroke="#6ee7b7" stroke-width="4.5" stroke-linecap="round"/>
+        <line x1="354" y1="205" x2="365" y2="220" stroke="#6ee7b7" stroke-width="4.5" stroke-linecap="round"/>
+        <rect x="328" y="232" width="10" height="20" rx="4" fill="#059669"/>
+        <rect x="342" y="232" width="10" height="20" rx="4" fill="#059669"/>
 
-  <!-- iPad -->
-  <rect x="312" y="218" width="56" height="38" rx="5" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
-  <rect x="317" y="222" width="46" height="28" rx="3" fill="#38bdf8" opacity="0.85"/>
-  <circle cx="326" cy="230" r="2.8" fill="#ffffff" opacity="0.9"/>
-  <circle cx="340" cy="230" r="2.8" fill="#ffffff" opacity="0.9"/>
-  <circle cx="354" cy="230" r="2.8" fill="#ffffff" opacity="0.9"/>
-  <circle cx="326" cy="241" r="2.8" fill="#ffffff" opacity="0.9"/>
-  <circle cx="340" cy="241" r="2.8" fill="#ffffff" opacity="0.9"/>
-  <circle cx="354" cy="241" r="2.8" fill="#ffffff" opacity="0.9"/>
-  <rect x="336" y="219.5" width="8" height="2" rx="1" fill="#64748b"/>
+        <!-- iPad -->
+        <rect x="312" y="218" width="56" height="38" rx="5" fill="#1e293b" stroke="#475569" stroke-width="1.5"/>
+        <rect x="317" y="222" width="46" height="28" rx="3" fill="#38bdf8" opacity="0.85"/>
+        <circle cx="326" cy="230" r="2.8" fill="#ffffff" opacity="0.9"/>
+        <circle cx="340" cy="230" r="2.8" fill="#ffffff" opacity="0.9"/>
+        <circle cx="354" cy="230" r="2.8" fill="#ffffff" opacity="0.9"/>
+        <circle cx="326" cy="241" r="2.8" fill="#ffffff" opacity="0.9"/>
+        <circle cx="340" cy="241" r="2.8" fill="#ffffff" opacity="0.9"/>
+        <circle cx="354" cy="241" r="2.8" fill="#ffffff" opacity="0.9"/>
+        <rect x="336" y="219.5" width="8" height="2" rx="1" fill="#64748b"/>
       </svg>
     </div>
 
@@ -278,24 +283,22 @@
 
     <div class="divider"></div>
 
-    <!-- Pitch text -->
     <div class="pitch">
       <p>
-        As the digital world becomes more complex, our responsibility for online safety can seem overwhelming.  This challenge remains largely <span class="highlight">overlooked by traditional
+        As the digital world becomes more complex, our responsibility for online safety can seem overwhelming. This challenge remains largely <span class="highlight">overlooked by traditional
         security companies</span>, leaving educators and parents without a clear approach on how to
         protect their children.
       </p>
       <p>
         Inspired by recent research into classifying online risk to children, I am developing a
         <span class="highlight">Digital Wellness Security Framework</span> — a practical, accessible
-        tool designed to bridge that gap and allow our children to experience the internet without fear. 
+        tool designed to bridge that gap and allow our children to experience the internet without fear.
       </p>
       <p>
-        If you are passtionate about helping protect vulnable communities and would like to get involved - I'd love to hear from you. 
+        If you are passionate about helping protect vulnerable communities and would like to get involved — I'd love to hear from you.
       </p>
     </div>
 
-    <!-- CTA -->
     <div class="cta">
       <button class="btn">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
@@ -307,12 +310,11 @@
     <p class="footer-note">
       This framework is an independent, self-funded initiative and is not affiliated with any organisation.
     </p>
-    
-<p class=footer">
-  <a href="about.html">Go to About Page</a>
-</p>
-    
+
+    <p class="footer">
+      <a href="about.html">Go to About Page</a>
+    </p>
+
   </div>
 </body>
-  
 </html>
