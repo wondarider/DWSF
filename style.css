@@ -124,6 +124,10 @@
       margin-bottom: 50px;
       line-height: 1.5;
       animation: fadeUp 0.8s 0.25s ease both;
+        /* added the below */
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem; /* this adds space between sentences */
     }
 
     .divider {
@@ -131,6 +135,8 @@
       background: var(--border);
       margin-bottom: 2.5rem;
       animation: fadeUp 0.8s 0.3s ease both;
+    
+
     }
 
     .pitch {
