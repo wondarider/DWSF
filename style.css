@@ -45,7 +45,7 @@
     }
 
     .card {
-      max-width: 680px;
+     /* max-width: 680px;*/
       width: 100%;
       background: var(--surface);
       border: 1px solid var(--border);
