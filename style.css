@@ -98,17 +98,17 @@
     }
 
     h1 {
-      font-family: 'Graphic', serif;
-      font-size: clamp(1.5rem, 3.5vw, 2.6rem);
-      line-height: 1.15;
-      color: var(--text);
-      margin-bottom: 0.6rem;
-      animation: fadeUp 0.8s 0.2s ease both;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis; 
-
-    }
+  font-family: 'Graphic', serif;
+  /* 1.  clamp to scale smaller on mobile, up to a max of 2.6rem */
+  font-size: clamp(1.2rem, 5.5cqw, 2.6rem); 
+  line-height: 1.15;
+  color: var(--text);
+  margin-bottom: 0.6rem;
+  animation: fadeUp 0.8s 0.2s ease both;
+  
+  /* 2. Force single line */
+  white-space: nowrap; 
+}
 
     h1 em {
       font-style: italic;
