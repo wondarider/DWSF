@@ -223,3 +223,8 @@
     }
 
     .footer a:hover { text-decoration: underline; }
+
+    .pitch p {
+  margin-bottom: 1.5rem !important;
+  display: block !important;
+}
