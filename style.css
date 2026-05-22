@@ -99,7 +99,7 @@
 
     h1 {
       font-family: 'Graphic', serif;
-      font-size: clamp(1.9rem, 4vw, 2.6rem);
+      font-size: clamp(1.5rem, 3.5vw, 2.6rem);
       line-height: 1.15;
       color: var(--text);
       margin-bottom: 0.6rem;
