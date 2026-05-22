@@ -127,7 +127,7 @@
         /* added the below */
       display: flex;
       flex-direction: column;
-      gap: 0.5rem; /* this adds space between sentences */
+      gap: 0.5rem; /* this adds space between the sentences */
     }
 
     .divider {
@@ -146,7 +146,7 @@
       animation: fadeUp 0.8s 0.35s ease both;
     }
 
-    .pitch p + p {
+    .pitch  {
       margin-top: 1.25rem;
     }
 
