@@ -144,6 +144,14 @@
       line-height: 1.85;
       color: #c8d8e8;
       animation: fadeUp 0.8s 0.35s ease both;
+      .pitch p {
+  margin-bottom: 1.5rem; /* Creates the perfect gap between paragraphs */
+}
+
+/* Optional: Removes the margin from the very last paragraph so it doesn't mess up your bottom padding */
+.pitch p:last-child {
+  margin-bottom: 0;
+}
     }
 
     .pitch  {
