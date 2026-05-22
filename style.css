@@ -118,7 +118,7 @@
       background-clip: text;
     }
 
-     .subtitle  {
+     .subtitle  p + p {
       font-size: 1rem;
       color: var(--muted);
       margin-bottom: 50px;
