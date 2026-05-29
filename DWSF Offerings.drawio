@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="vEG_7ZKpSlziPY88pMTk">
+    <mxGraphModel dx="1335" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lafXr-N25h_IavgBWAOY-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="160" width="280" x="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Outline of a structured DW program" vertex="1">
+          <mxGeometry height="75" width="180" x="240" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Establishment of a DW program" vertex="1">
+          <mxGeometry height="70" width="210" x="530" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Basic" vertex="1">
+          <mxGeometry height="80" width="80" x="160" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-6" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="DISCOVERY" vertex="1">
+          <mxGeometry height="30" width="280" x="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-7" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="IMPLEMENTATION" vertex="1">
+          <mxGeometry height="30" width="190" x="530" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="160" width="500" x="200" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Assess" vertex="1">
+          <mxGeometry height="80" width="80" x="160" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Assess maturity of existing DW program" vertex="1">
+          <mxGeometry height="70" width="180" x="240" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Maturity Score" vertex="1">
+          <mxGeometry height="70" width="100" x="430" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="160" width="720" x="200" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="360" vertex="1">
+          <mxGeometry height="80" width="80" x="160" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Assess maturity of existing DW program" vertex="1">
+          <mxGeometry height="70" width="180" x="290" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Uplift DW program" vertex="1">
+          <mxGeometry height="70" width="180" x="720" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Uplift Roadmap" vertex="1">
+          <mxGeometry height="70" width="100" x="544" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-18" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" value="Implementation internally" vertex="1">
+          <mxGeometry height="80" width="120" x="580" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Maturity Score" vertex="1">
+          <mxGeometry height="70" width="100" x="480" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Uplift Roadmap" vertex="1">
+          <mxGeometry height="70" width="100" x="590" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-23" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="DISCOVERY" vertex="1">
+          <mxGeometry height="30" width="490" x="200" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-24" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="IMPLEMENTATION" vertex="1">
+          <mxGeometry height="30" width="190" x="715" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Program artefacts" vertex="1">
+          <mxGeometry height="35" width="110" x="630" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Governance&amp;nbsp;" vertex="1">
+          <mxGeometry height="35" width="100" x="530" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="160" width="270" x="510" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lafXr-N25h_IavgBWAOY-32" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="20" y="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
