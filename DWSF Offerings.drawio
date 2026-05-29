@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dEWmvzqX3bRGUXvRJb1e-3" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="DISCOVERY" vertex="1">
+          <mxGeometry height="30" width="450" x="200" y="320" as="geometry" />
+        </mxCell>
         <mxCell id="lafXr-N25h_IavgBWAOY-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" value="" vertex="1">
           <mxGeometry height="160" width="280" x="200" y="80" as="geometry" />
         </mxCell>
@@ -73,8 +76,41 @@
         <mxCell id="lafXr-N25h_IavgBWAOY-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" value="" vertex="1">
           <mxGeometry height="160" width="270" x="510" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="lafXr-N25h_IavgBWAOY-32" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="120" x="20" y="110" as="geometry" />
+        <mxCell id="lafXr-N25h_IavgBWAOY-32" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="No DW&amp;nbsp;&lt;div&gt;activities exist&lt;/div&gt;" vertex="1">
+          <mxGeometry height="142.5" width="160" y="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dEWmvzqX3bRGUXvRJb1e-1" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Some DW&amp;nbsp;&lt;div&gt;activities exist, uplift performed internally&lt;/div&gt;" vertex="1">
+          <mxGeometry height="142.5" width="160" x="10" y="328.75" as="geometry" />
+        </mxCell>
+        <mxCell id="dEWmvzqX3bRGUXvRJb1e-2" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Some DW&amp;nbsp;&lt;div&gt;activities exist, uplift performed&amp;nbsp;&lt;/div&gt;&lt;div&gt;by 3rd party.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="142.5" width="160" x="10" y="553.75" as="geometry" />
+        </mxCell>
+        <mxCell id="dEWmvzqX3bRGUXvRJb1e-4" parent="1" style="shape=manualInput;boundedLbl=1;whiteSpace=wrap;html=1;size=125;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="125" width="720" x="140" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="dEWmvzqX3bRGUXvRJb1e-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;DW Maturity level&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="250" x="140" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="dEWmvzqX3bRGUXvRJb1e-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="0" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="968" as="geometry" />
+        </mxCell>
+        <mxCell id="dEWmvzqX3bRGUXvRJb1e-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="968" as="geometry" />
+        </mxCell>
+        <mxCell id="dEWmvzqX3bRGUXvRJb1e-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2" vertex="1">
+          <mxGeometry height="30" width="60" x="590" y="968" as="geometry" />
+        </mxCell>
+        <mxCell id="dEWmvzqX3bRGUXvRJb1e-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3" vertex="1">
+          <mxGeometry height="30" width="60" x="830" y="965" as="geometry" />
+        </mxCell>
+        <mxCell id="dEWmvzqX3bRGUXvRJb1e-13" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;&lt;font&gt;WIth an embedded and robust DW program, we minimise online risks materia&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;lising into harm&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="119" width="166" x="380" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="dEWmvzqX3bRGUXvRJb1e-14" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;With minimised harm and smart online danger navigation, we make our children more resilient to adverse events and more balanced in respecting each other - making a more enjoyable and thriving &amp;nbsp;environment, neighbourhood and world. &amp;nbsp;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="138" width="210" x="640" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="dEWmvzqX3bRGUXvRJb1e-15" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=0;" value="&lt;font color=&quot;#000000&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;Without any DW activities we run the risk of our children falling foul of the plethora of online harms&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="119" width="166" x="140" y="840" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
