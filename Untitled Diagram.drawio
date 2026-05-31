@@ -5,43 +5,35 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4wQvuR2xZ7e4NqvYNi9n-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
-          <mxGeometry height="565" width="800" x="10" y="-7" as="geometry" />
+          <mxGeometry height="565" width="830" x="10" y="-7" as="geometry" />
         </mxCell>
-        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;p&gt;&lt;font face=&quot;Graphik&quot;&gt;We currently perform&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Graphik&quot;&gt;no DW activities&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="97.5" width="140" x="20" y="54" as="geometry" />
-        </mxCell>
-        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-16" edge="1" parent="1" source="4wQvuR2xZ7e4NqvYNi9n-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4wQvuR2xZ7e4NqvYNi9n-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="&lt;p&gt;&lt;font face=&quot;Graphik&quot;&gt;Our seniors are supportive us establishing a DW program&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="95" width="120" x="210" y="55" as="geometry" />
-        </mxCell>
-        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-15" edge="1" parent="1" source="4wQvuR2xZ7e4NqvYNi9n-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4wQvuR2xZ7e4NqvYNi9n-8">
+        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-16" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4wQvuR2xZ7e4NqvYNi9n-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610.2857142857144" y="40" as="targetPoint" />
+            <mxPoint x="330" y="101.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;p&gt;&lt;font face=&quot;Graphik&quot;&gt;CC provides the outline of a structured DW program&lt;/font&gt;&lt;/p&gt;" vertex="1">
+        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-15" edge="1" parent="1" source="4wQvuR2xZ7e4NqvYNi9n-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="4wQvuR2xZ7e4NqvYNi9n-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;p&gt;&lt;font face=&quot;Graphik&quot;&gt;CC provides the outline of a structured DW program&lt;/font&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="100" width="100" x="364" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Graphik;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;Implemented internally&lt;/span&gt;" vertex="1">
-          <mxGeometry height="110" width="110" x="414" y="390" as="geometry" />
+        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-17" edge="1" parent="1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="102.75" as="sourcePoint" />
+            <mxPoint x="210" y="101.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Graphik; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;Design DW program&lt;/span&gt;" vertex="1">
-          <mxGeometry height="100" width="100" x="510" y="260" as="geometry" />
-        </mxCell>
-        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Graphik;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;Implemented&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;by CC&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="110" x="610" y="390" as="geometry" />
-        </mxCell>
-        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-17" edge="1" parent="1" source="4wQvuR2xZ7e4NqvYNi9n-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="4wQvuR2xZ7e4NqvYNi9n-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-18" edge="1" parent="1" source="4wQvuR2xZ7e4NqvYNi9n-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;startArrow=classic;startFill=1;" target="4wQvuR2xZ7e4NqvYNi9n-6">
+        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-18" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;startArrow=classic;startFill=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="665" y="360" />
-              <mxPoint x="469" y="360" />
+              <mxPoint x="665" y="350" />
+              <mxPoint x="469" y="350" />
             </Array>
+            <mxPoint x="665" y="390" as="sourcePoint" />
+            <mxPoint x="469" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4wQvuR2xZ7e4NqvYNi9n-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h2&gt;&lt;font face=&quot;Graphik&quot;&gt;Workflow - Fundamentals&lt;/font&gt;&lt;/h2&gt;" vertex="1">
@@ -89,7 +81,7 @@
           <mxGeometry height="50" width="90" x="723" y="905" as="geometry" />
         </mxCell>
         <mxCell id="4wQvuR2xZ7e4NqvYNi9n-38" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="&lt;p&gt;&lt;font face=&quot;Graphik&quot;&gt;DWSF Program established&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="60" width="200" x="480" y="490" as="geometry" />
+          <mxGeometry height="60" width="200" x="470" y="460" as="geometry" />
         </mxCell>
         <mxCell id="4wQvuR2xZ7e4NqvYNi9n-43" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#b0e3e6;strokeColor=#0e8088;" value="&lt;font face=&quot;Graphik&quot;&gt;Score 3&lt;/font&gt;" vertex="1">
           <mxGeometry height="34" width="70" x="708" y="839" as="geometry" />
@@ -139,8 +131,23 @@
         <mxCell id="4wQvuR2xZ7e4NqvYNi9n-69" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" value="&lt;p&gt;&lt;font face=&quot;Graphik&quot;&gt;DWSF Program established&lt;/font&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="60" width="200" x="560" y="1186" as="geometry" />
         </mxCell>
-        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-70" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=24;position=0.67;position2=0.21;" value="&lt;font face=&quot;Graphik&quot;&gt;The Fundamental Model&lt;/font&gt;" vertex="1">
-          <mxGeometry height="74" width="120" x="693" y="370" as="geometry" />
+        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-70" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=24;position=0.54;position2=0.21;base=20;" value="&lt;font face=&quot;Graphik&quot;&gt;The Fundamental Model&lt;/font&gt;" vertex="1">
+          <mxGeometry height="74" width="120" x="707" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-72" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;p style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;&lt;font face=&quot;Graphik&quot;&gt;We currently perform&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;&lt;font face=&quot;Graphik&quot;&gt;no DW activities&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="150" x="20" y="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-73" parent="1" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Graphik;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;Our seniors are supportive&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;to establish a DW program&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="160" x="190" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-74" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Graphik;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;Implementation&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="110" x="505" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-75" parent="1" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Graphik; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;Implemented internally&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-77" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-family: Graphik; float: none; display: inline !important; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);&quot;&gt;Implemented&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-family: Graphik;&quot;&gt;&lt;span style=&quot;float: none; display: inline !important; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);&quot;&gt;by CC&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="615" y="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
