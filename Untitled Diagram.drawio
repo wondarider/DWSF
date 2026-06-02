@@ -63,7 +63,10 @@
         <mxCell id="4wQvuR2xZ7e4NqvYNi9n-77" parent="4wQvuR2xZ7e4NqvYNi9n-86" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-family: Graphik; float: none; display: inline !important; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);&quot;&gt;Implemented&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-family: Graphik;&quot;&gt;&lt;span style=&quot;float: none; display: inline !important; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);&quot;&gt;by CC&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="615" y="397" as="geometry" />
         </mxCell>
-        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-87" connectable="0" parent="1" style="group" value="" vertex="1">
+        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-119" parent="4wQvuR2xZ7e4NqvYNi9n-86" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.17;" value="&lt;font face=&quot;Graphik&quot;&gt;DWSF Toolkit makes this clear &amp;amp; easy use&lt;/font&gt;" vertex="1">
+          <mxGeometry height="77" width="120" x="440" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-87" connectable="0" parent="1" style="group;fillColor=none;" value="" vertex="1">
           <mxGeometry height="710" width="830" x="40" y="-1690" as="geometry" />
         </mxCell>
         <mxCell id="4wQvuR2xZ7e4NqvYNi9n-25" parent="4wQvuR2xZ7e4NqvYNi9n-87" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;p&gt;&lt;font face=&quot;Graphik&quot;&gt;DW Assessment performed against each DWSF Function&lt;/font&gt;&lt;/p&gt;" vertex="1">
@@ -162,6 +165,9 @@
         </mxCell>
         <mxCell id="4wQvuR2xZ7e4NqvYNi9n-31" parent="4wQvuR2xZ7e4NqvYNi9n-88" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h2&gt;&lt;font face=&quot;Graphik&quot;&gt;Workflow - Full&lt;/font&gt;&lt;/h2&gt;" vertex="1">
           <mxGeometry height="30" width="190" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4wQvuR2xZ7e4NqvYNi9n-89" parent="4wQvuR2xZ7e4NqvYNi9n-88" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.17;" value="&lt;font face=&quot;Graphik&quot;&gt;DWSF Toolkit makes this quick &amp;amp; simple&lt;/font&gt;" vertex="1">
+          <mxGeometry height="77" width="120" x="440" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
